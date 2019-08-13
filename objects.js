@@ -4,4 +4,8 @@ var playlist = {
   BigL: 'Put it on'
 }
 
-function 
+function updatePlaylist() {
+  
+  
+  
+}
