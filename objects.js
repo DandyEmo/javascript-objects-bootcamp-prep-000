@@ -4,9 +4,4 @@ var playlist = {
   BigL: 'Put it on'
 }
 
-function updatePlaylist(obj, key, value) {
-  return 
-  
-  
-  
-}
+playlist.MobbDeep = 'Shook ones'
