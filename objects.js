@@ -5,6 +5,6 @@ var playlist = {
 }
 
 function updatePlaylist(obj, key, value) {
-  return playlist.assign({}),
-  obj, { [key]: value })
+  
+  
 }
