@@ -4,4 +4,6 @@ var playlist = {
   BigL: 'Put it on'
 }
 
-playlist.MobbDeep = 'Shook ones'
+function updatePlaylist() {
+  
+}
