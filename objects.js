@@ -4,7 +4,8 @@ var playlist = {
   BigL: 'Put it on'
 }
 
-function updatePlaylist() {
+function updatePlaylist(obj, key, value) {
+  return 
   
   
   
